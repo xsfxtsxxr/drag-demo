@@ -1,0 +1,25 @@
+.content {
+  height: 100vh;
+  flex: 1;
+}
+.canvas {
+  height: 70vh;
+  background-color: #333;
+  /* flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.box {
+  height: 30vh;
+  padding: 10px 16px;
+  overflow: hidden;
+}
+
+.paragraph {
+  color: #fff;
+}
+
+.ant-input {
+  margin-bottom: 8px;
+}

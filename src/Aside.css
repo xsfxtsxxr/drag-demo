@@ -1,0 +1,4 @@
+@import '~antd/dist/antd.css';
+.aside {
+  min-width: 256px;
+}
